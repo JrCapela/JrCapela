@@ -24,5 +24,5 @@ I have traveled across multiple countries while working remotely, collaborating 
 Power BI, Excel, SQL, Python, GitHub, Power Query, n8n, Google Sheets
 
 ## Contact
-LinkedIn: www.linkedin.com/in/josé-capela-4b1189379  
+LinkedIn: www.linkedin.com/in/jcapelajr  
 Email: jcapelajr@gmail.com
